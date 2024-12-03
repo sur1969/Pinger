@@ -1,0 +1,16 @@
+D:\source\Pinger\Pinger\bin\Debug\net8.0-windows\Pinger.exe
+D:\source\Pinger\Pinger\bin\Debug\net8.0-windows\Pinger.deps.json
+D:\source\Pinger\Pinger\bin\Debug\net8.0-windows\Pinger.runtimeconfig.json
+D:\source\Pinger\Pinger\bin\Debug\net8.0-windows\Pinger.dll
+D:\source\Pinger\Pinger\bin\Debug\net8.0-windows\Pinger.pdb
+D:\source\Pinger\Pinger\obj\Debug\net8.0-windows\Pinger.Form1.resources
+D:\source\Pinger\Pinger\obj\Debug\net8.0-windows\Pinger.csproj.GenerateResource.cache
+D:\source\Pinger\Pinger\obj\Debug\net8.0-windows\Pinger.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\Pinger\Pinger\obj\Debug\net8.0-windows\Pinger.AssemblyInfoInputs.cache
+D:\source\Pinger\Pinger\obj\Debug\net8.0-windows\Pinger.AssemblyInfo.cs
+D:\source\Pinger\Pinger\obj\Debug\net8.0-windows\Pinger.csproj.CoreCompileInputs.cache
+D:\source\Pinger\Pinger\obj\Debug\net8.0-windows\Pinger.dll
+D:\source\Pinger\Pinger\obj\Debug\net8.0-windows\refint\Pinger.dll
+D:\source\Pinger\Pinger\obj\Debug\net8.0-windows\Pinger.pdb
+D:\source\Pinger\Pinger\obj\Debug\net8.0-windows\Pinger.genruntimeconfig.cache
+D:\source\Pinger\Pinger\obj\Debug\net8.0-windows\ref\Pinger.dll
